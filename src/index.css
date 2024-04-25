@@ -1,0 +1,14 @@
+.Card{
+    border: 1px solid;
+    box-shadow: 5px 5px 5px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 260px;
+    display: inline-block;
+}
+.Card-img{
+   
+    height: 170px;
+    width:110px;
+}
